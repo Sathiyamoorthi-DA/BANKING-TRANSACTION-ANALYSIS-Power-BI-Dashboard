@@ -174,7 +174,6 @@ This dashboard provides a centralized view of banking transaction performance an
 ### Overview Analysis
 
 [Add Overview Screenshot Here]
-
 ### Transactions
 
 [Add Transactions Screenshot Here]
