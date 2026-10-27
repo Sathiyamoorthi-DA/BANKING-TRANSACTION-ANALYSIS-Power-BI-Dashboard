@@ -14,7 +14,7 @@ The goal of this project is to provide a centralized analytical view of banking 
 (Screenshots/Bank.png)](https://github.com/Sathiyamoorthi-DA/BANKING-TRANSACTION-ANALYSIS-Power-BI-Dashboard/blob/main/Screenshots/Bank.png)
 
 [![BANKING-TRANSACTION-ANALYSIS-Power-BI-Dashboard]
-(Screenshots/Bank.png)](https://github.com/Sathiyamoorthi-DA/BANKING-TRANSACTION-ANALYSIS-Power-BI-Dashboard/blob/main/Screenshots/Bank.png)
+(Screenshots/Bank.png)](https://github.com/Sathiyamoorthi-DA/BANKING-TRANSACTION-ANALYSIS-Power-BI-Dashboard/blob/main/Screenshots/Bank1.png)
 
 ## 🎯 Business Objectives
 
