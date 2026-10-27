@@ -9,6 +9,9 @@ The dashboard transforms banking transaction data into actionable business insig
 The goal of this project is to provide a centralized analytical view of banking transactions and help users monitor financial activity, transaction trends, customer behavior, and transaction performance.
 
 ---
+## 🎯 Dashboard Preview
+[![BANKING-TRANSACTION-ANALYSIS-Power-BI-Dashboard]
+(Screenshots/Bank.png)](https://github.com/Sathiyamoorthi-DA/Revivea-sales-analytics-powerbi/blob/main/Screenshots/revivea-sales-dashboard%20(1).png)
 
 ## 🎯 Business Objectives
 
