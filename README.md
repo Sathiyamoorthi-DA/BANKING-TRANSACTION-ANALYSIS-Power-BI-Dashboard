@@ -11,7 +11,10 @@ The goal of this project is to provide a centralized analytical view of banking 
 ---
 ## 🎯 Dashboard Preview
 [![BANKING-TRANSACTION-ANALYSIS-Power-BI-Dashboard]
-(Screenshots/Bank.png)](https://github.com/Sathiyamoorthi-DA/Revivea-sales-analytics-powerbi/blob/main/Screenshots/revivea-sales-dashboard%20(1).png)
+(Screenshots/Bank.png)](https://github.com/Sathiyamoorthi-DA/BANKING-TRANSACTION-ANALYSIS-Power-BI-Dashboard/blob/main/Screenshots/Bank.png)
+
+[![BANKING-TRANSACTION-ANALYSIS-Power-BI-Dashboard]
+(Screenshots/Bank.png)](https://github.com/Sathiyamoorthi-DA/BANKING-TRANSACTION-ANALYSIS-Power-BI-Dashboard/blob/main/Screenshots/Bank.png)
 
 ## 🎯 Business Objectives
 
